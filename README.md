@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielmagma
 - 🌱 I’m currently learning: c, assembly, python, java, html, css, javascript
-- ⚡ Fun fact: I'm programming since first grade
+- ⚡ Fun fact: programming since first grade
 - 🖥️ Other Interests: DnD, video games
 <!---
 arielmagma/arielmagma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
