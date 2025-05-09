@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @arielmagma
-- 🌱 I’m currently learning: c, assembly, python, java, html, css, javascript, c#, cyber defence/attack
+- 🌱 I’m currently learning: assembly, c#
+- 📖 I know: c, python, java, html, css, javascript, opp, cyber security, network
 - ⚡ Fun fact: programming for 10 years
 - 🖥️ Other Interests: DnD, video games
 <!---
