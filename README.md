@@ -3,3 +3,4 @@
 - 📖 I know: c, c#, python, java, html, css, javascript, opp, cybersecurity, networking
 - ⚡ Fun fact: programming for 10 years
 - 🖥️ Other Interests: DnD, video games
+- ✉️ Contact at: arielk2909@gmail.com
