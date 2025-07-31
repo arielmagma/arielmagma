@@ -4,3 +4,6 @@
 - ⚡ Fun fact: programming for 10 years
 - 🖥️ Other Interests: DnD, video games
 - ✉️ Contact at: arielk2909@gmail.com
+
+### 🚧 Projects I'm Working On
+- **PhantomNet** – Building my own network packet sniffer in Python using Scapy for sniffing and Tkinter for UI.
