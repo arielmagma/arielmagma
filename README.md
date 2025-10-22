@@ -1,6 +1,7 @@
+### 📖 General Info
 - 👋 Hi, I’m @arielmagma
 - 🌱 I’m currently learning: Assembly, C++
-- 📖 I know: C, C#, Python, Java, HTML, CSS, JavaScript, OOP, Cybersecurity, Networks
+- 💻 I know: C, C#, Python, Java, HTML, CSS, JavaScript, OOP, Cybersecurity, Networks, Linux, Windows, Computer Architecture
 - ⚡ Fun fact: programming for 11 years
 - 🖥️ Other Interests: DnD, Video Games, Physics
 - ✉️ Contact at: arielk2909@gmail.com
