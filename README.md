@@ -1,4 +1,4 @@
-2l### 📖 General Info
+### 📖 General Info
 - 👋 Hi, I’m @arielmagma
 - 🌱 I’m currently learning: Assembly, C++
 - 💻 Programming languages: C, C#, Python, Java, HTML, CSS, JavaScript, OOP
