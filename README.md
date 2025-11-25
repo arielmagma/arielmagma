@@ -10,4 +10,4 @@
 ### 🚧 Projects I'm Working On
 - **PhantomNet** - My own network packet sniffer in Python.
 - **Snake ML** - A C based machine learning AI that trains on and plays a custom Snake game, also written in C.
-
+- **School Social App** - A unity based app with servers coded in python.
